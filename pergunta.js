@@ -88,3 +88,13 @@ criaCartao(
     'Qual a fórmula do Xv?',
     'Xv=-b/2a'
 )
+criaCartao(
+    'Física',
+    'Qual a fórmula de Torricelli?',
+    'V²=Vo²+2a·ΔS'
+)
+criaCartao(
+    'Biologia',
+    'Qual a principal função da mitocôndria?',
+    'Respiração celular (Síntese de ATP)'
+)
