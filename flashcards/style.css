@@ -1,6 +1,10 @@
 :root{
-    --fundo: #7FFFD4;
+    --fundo: #FFFFF0;
     --cor-texto: black;
     --cor-frente-cartao: #8B008B;
     --cor-verso-cartao: #8B008B;
+}
+
+body{
+    background-color: var(--fundo);
 }
