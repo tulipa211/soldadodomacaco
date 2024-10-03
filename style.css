@@ -44,6 +44,7 @@ footer{
     height: 100%;
     transform-style:preserve-3d;
     transition: transform 300ms ease-in-out;
+    border-radius: 6px;
 }
 
 .cartao-conteudo h3{
