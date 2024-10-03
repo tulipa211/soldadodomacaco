@@ -6,7 +6,7 @@ criaCartao(
 criaCartao(
     'BIOLOGIA',
     'Qual o processo em que ocorre o acúmulo de uma substância nos níveis tróficos da cadeia alimentar?',
-    'Magnificação trófica'
+    'Magnificação trófica/biomagnificação'
 )
 criaCartao(
     'MATEMÁTICA',
