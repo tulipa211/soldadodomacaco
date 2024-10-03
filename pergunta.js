@@ -45,7 +45,7 @@ criaCartao(
 )
 criaCartao(
     'BIOLOGIA',
-    'Estrutura da planta responsável do auxílio da penetração do solo e proteção da região meristemática?',
+    'Como se chama a estrutura da planta responsável pelo auxílio da penetração do solo e proteção da região meristemática?',
     'Coifa'
 )
 criaCartao(
