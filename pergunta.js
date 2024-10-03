@@ -85,7 +85,7 @@ criaCartao(
 )
 criaCartao(
     'Matemática',
-    'Qual a fórmula do Xv?',
+    'Qual a fórmula do X do vértice de uma parábola?',
     'Xv=-b/2a'
 )
 criaCartao(
