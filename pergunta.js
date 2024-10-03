@@ -102,4 +102,4 @@ criaCartao(
     'MATEMÁTICA',
     'Qual a expansão do produto notável (a+b)²',
     'a²+2ab+b²'
-)
+)​

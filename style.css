@@ -111,7 +111,6 @@ footer{
     }
 }
 
-/* Responsividade para smartphones */
 @media (max-width: 480px) {
     #container {
         padding: 1rem;
