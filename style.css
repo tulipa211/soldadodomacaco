@@ -5,6 +5,8 @@
     --cor-verso-cartao: #8B008B;
     --preto: #000000;
     --branco: #FFFFFF;
+    --amarelo: #C0C0C0;
+
 }
 
 body{
@@ -88,5 +90,5 @@ footer{
 
 .cartao-resposta{
     transform: rotateY('180deg');
-    background-color: var(--cor-frente-cartao);
+    background-color: var(--amarelo);
 }
