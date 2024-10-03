@@ -98,3 +98,8 @@ criaCartao(
     'Qual a principal função da mitocôndria?',
     'Respiração celular (Síntese de ATP)'
 )
+criaCartao(
+    'MATEMÁTICA',
+    'Qual a expansão do produto notável (a+b)²',
+    'a²+2ab+b²'
+)
