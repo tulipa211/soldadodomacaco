@@ -86,7 +86,7 @@ footer{
 }
 
 .cartao.active .cartao-conteudo{
-    transform: rotateY(180deg);
+    transform: rotateY(199deg);
 }
 
 .cartao-resposta{
