@@ -56,7 +56,7 @@ criaCartao(
 criaCartao(
     'FÍSICA',
     'Um espelho convexo forma qual tipo de imagem?',
-    'Virtual'
+    'Imagem virtual'
 )
 criaCartao(
     'QUÍMICA',
