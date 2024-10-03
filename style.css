@@ -59,7 +59,8 @@ footer{
 
 .cartao-conteudo p{
     margin-top: 4rem;
-    padding; 
+    padding; 2rem;
+    font-size;
 }
 
 .cartao:hover .cartao-conteudo{
