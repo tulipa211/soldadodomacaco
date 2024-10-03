@@ -14,7 +14,7 @@ criaCartao(
     'Ponto em que a reta corta o eixo Y'
 )
 criaCartao(
-    'Química',
+    'QUÍMICA',
     'O que significa a tetravalência do Carbono?',
     'Que o carbono é capaz de fazer quatro ligações'
 )
