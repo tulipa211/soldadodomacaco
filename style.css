@@ -65,9 +65,8 @@ footer{
 }
 
 .cartao-pergunta p{
-    margin-top: 4rem;
-    padding: 2rem;
-    font-size: 1.4vw;
+    color:var(--cor-frente-cartao);
+    font-weight: 500;
 }
 
 .cartao.resposta {
