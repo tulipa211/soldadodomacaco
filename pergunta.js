@@ -10,7 +10,7 @@ criaCartao(
 )
 criaCartao(
     'MATEMÁTICA',
-    'Qual o papel do coeficiente linear na função do 1º Grau?',
+    'Qual o papel do coeficiente linear na função de 1º Grau?',
     'Ponto em que a reta corta o eixo Y'
 )
 criaCartao(
