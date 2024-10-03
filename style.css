@@ -83,7 +83,7 @@ footer{
     box-sizing: border-box;
 }
 
-.cartao:hover .cartao-conteudo{
+.cartao.active .cartao-conteudo{
     transform: rotateY('180deg');
 }
 
