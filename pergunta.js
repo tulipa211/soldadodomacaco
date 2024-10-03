@@ -20,7 +20,7 @@ criaCartao(
 )
 criaCartao(
     'BIOLOGIA',
-    'Qual são as principais etapas da respiração celular',
+    'Qual são as principais etapas da respiração celular?',
     'Glicólise, Ciclo de Krebs e Cadeia Respiratória'
 )
 criaCartao(
