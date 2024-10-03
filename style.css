@@ -82,6 +82,11 @@ footer{
     box-sizing: border-box;
 }
 
-.cartao:hover .cartao-resposta{
+.cartao:hover .cartao-conteudo{
     transform: rotateY('180deg');
+}
+
+.cartao-resposta{
+    transform: rotateY('180deg');
+    background-color: var(--cor-frente-cartao);
 }
