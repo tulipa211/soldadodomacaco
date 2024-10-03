@@ -48,7 +48,7 @@ footer{
 .cartao-conteudo h3{
     color: var(--cor-frente-cartao);
     border: 1px solid var(--fundo);
-    text-aliang: left;
+    text-align: left;
     padding: 0.5rem;
     position: absolute;
     margin: 0.5rem;
