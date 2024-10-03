@@ -46,7 +46,7 @@ footer{
 }
 
 .cartao-conteudo h3{
-    color: var(--cor-frente-cartao)
+    color: var(--cor-frente-cartao);
     border: 1px solid var(--fundo);
     text-aliang: left;
     padding: 0.5rem;
@@ -59,16 +59,23 @@ footer{
 
 .cartao-conteudo p{
     margin-top: 4rem;
-    padding; 2rem;
-    font-size;
+    padding: 2rem;
+    font-size: 1.4vw;
 }
 
-.cartao:hover .cartao-conteudo{
-    trans
+.cartao-pergunta p{
+    margin-top: 4rem;
+    padding: 2rem;
+    font-size: 1.4vw;
 }
 
-.cartao-pergunta,
-.cartao-resposta{
+.cartao.resposta {
+    color: var(--preto);
+    font-weight: 700;
+}
+
+
+.cartao-pergunta, .cartao-resposta{
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
@@ -76,6 +83,6 @@ footer{
     box-sizing: border-box;
 }
 
-.cartao-resposta{
-    transform: rotateY('180deg')
+.cartao:hover .cartao-resposta{
+    transform: rotateY('180deg');
 }
