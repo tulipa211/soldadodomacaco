@@ -32,3 +32,15 @@ footer{
     bottom: 0;
     width: 100%;
 }
+
+#container{
+    display: grid;
+    padding: 2rem;
+    gap: 3rem;
+}
+
+.cartao-conteudo{
+    background-color: coral;
+    border: 1px solid var(--preto);
+    box-shadow: 2px 2px 2px var(--preto);
+}
