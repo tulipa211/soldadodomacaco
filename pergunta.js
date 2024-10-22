@@ -1,3 +1,5 @@
+
+document.addEventListener('DOMContentLoaded', function () {
 criaCartao(
     'FÍSICA',
     'Qual a fórmula do calor específico?',
@@ -103,3 +105,4 @@ criaCartao(
     'Qual a expansão do produto notável (a+b)²',
     'a²+2ab+b²'
 )​
+ }

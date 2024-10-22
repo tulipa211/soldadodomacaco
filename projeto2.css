@@ -44,3 +44,10 @@ footer{
     border: 1px solid var(--preto);
     box-shadow: 2px 2px 2px var(--preto);
 }
+
+.cartao-resposta{
+    background-color: var(--cor-verso-cartao);
+    margin-top: 5px;
+    padding: 20px;
+    
+}
