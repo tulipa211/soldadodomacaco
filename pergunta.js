@@ -1,5 +1,5 @@
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('container', function () {
 criaCartao(
     'FÍSICA',
     'Qual a fórmula do calor específico?',
